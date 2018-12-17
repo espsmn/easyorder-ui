@@ -1,0 +1,52 @@
+.spacer {
+    margin-top: 15px
+}
+
+.spacer-left {
+    margin-left: 15px;
+}
+
+.spacer-center {
+    margin: auto;
+}
+
+.spacer-right {
+    margin-right: 15px;
+}
+
+.effect:hover {
+    opacity: .5;
+}
+
+.click:active {
+    width: 65px;
+    height: 65px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.loader {
+    margin:auto;
+}
+
+.font {
+    font-family: 'Roboto', sans-serif;
+    color: #454545
+}
+
+.menu-font {
+    font-family: Bradley Hand ITC;
+    color: #545454
+}
+
+.info:hover {
+    opacity: 0.6;
+}
